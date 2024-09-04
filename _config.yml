@@ -1,4 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-description: Minimal is a theme for GitHub Pages.
+description: Let\'s make our community safer. Take action with me and your neighbors to help build a safer Marshall Avenue
+title: Taking Action for a Safer Marshall
