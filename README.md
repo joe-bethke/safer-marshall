@@ -15,9 +15,11 @@ To go above and beyond and make the neighborhood not only a safe place for pedes
 
 ## Actions items
 
-[Sign the petition!]()
-[Take our Survey!]()
-[Contact the city!]()
+[Sign the petition]()
+
+[Take our Survey]()
+
+[Contact the city]()
 
 ## Other Resources
 
