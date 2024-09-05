@@ -2,7 +2,7 @@ remote_theme: godalming123/minimal
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-logo: /assets/images/logo.svg
+logo: /assets/img/logo.svg
 title: Taking Action for a Safer Marshall
 description: Help make our community safer. Take action with me and your neighbors to help build a safer Marshall Avenue
 
