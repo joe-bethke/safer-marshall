@@ -15,14 +15,14 @@ To go above and beyond and make the neighborhood not only a safe place for pedes
 
 ## Actions items
 
-[Sign the petition]()
+[Sign the petition](https://chng.it/S8SXw9qLKd)
 
-[Take our Survey]()
+[Take our Survey](https://forms.gle/Wj797KHfX9nicUBH9)
 
-[Contact the city]()
+[Contact the city](https://www.stpaul.gov/departments/public-works/traffic-engineering#contact)
 
 ## Other Resources
 
 Interested in improving your own community's pedestrian safety? Contact me at jbethke77@gmail.com, for help with creating your own website, survey, and petition!
 
-- [Your Very Own Crosswalk: A Step-By-Step Manual]()
+- [Your Very Own Crosswalk: A Step-By-Step Manual](http://www.wherethesidewalkstarts.com/2011/04/your-very-own-crosswalk-step-by-step.html)
