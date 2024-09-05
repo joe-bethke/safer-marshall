@@ -1,4 +1,4 @@
-# Let's create a safer Marshall Avenue
+# Let's work towards a safer community!
 
 Marshall avenue between Victoria Street and Lexington Parkway desparately needs traffic calming and pedestrian safety measures implemented. This stretch of Marshall is a half mile long and contains 3 frequent pedestrian crossings at the Oxford, Chatsworth and Milton street intersections. As of the start of the 2025 school year, the city has just resurfaced Marshall avenue along this half mile stretch, but missed this perfect opportunity to add any useful traffic calming or pedestrian safety measures. This page exists as a place to showcase to the city the need for these measures and to provide links to our petition, survey and other resources for creating change in our community.
 
