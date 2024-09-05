@@ -1,5 +1,10 @@
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-description: Let\'s make our community safer. Take action with me and your neighbors to help build a safer Marshall Avenue
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Taking Action for a Safer Marshall
+description: Let\'s make our community safer. Take action with me and your neighbors to help build a safer Marshall Avenue
+
+links:
+  petition: https://chng.it/S8SXw9qLKd
+  survey: https://forms.gle/Wj797KHfX9nicUBH9
+  city_contact: https://www.stpaul.gov/departments/public-works/traffic-engineering#contact
